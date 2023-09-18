@@ -1,0 +1,28 @@
+button {
+    background-color: white; 
+    border: none;
+    color: white;
+    padding: 30px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    width: 890px;
+    height: 100px;
+    border: 5px solid black;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+body {
+    background-color: white;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+}
+
+h1 {
+    text-size-adjust: xx-large;
+    text-align: center;
+}
